@@ -1,0 +1,99 @@
+{
+  "levelSummary": {
+    "LEVEL_WARNING": "943096"
+  },
+  "counterSet": {
+    "counters": {
+      "StrSplit_EmptyToken": "943096"
+    }
+  },
+  "entries": [{
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "undata-energy-output.csv",
+      "lineNumber": "151938"
+    },
+    "userMessage": "Empty value found (column Scaling_factor, property scalingFactor, entity E:UNDataEnergy->E0)",
+    "counterKey": "StrSplit_EmptyToken"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "undata-energy-output.csv",
+      "lineNumber": "151939"
+    },
+    "userMessage": "Empty value found (column Scaling_factor, property scalingFactor, entity E:UNDataEnergy->E0)",
+    "counterKey": "StrSplit_EmptyToken"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "undata-energy-output.csv",
+      "lineNumber": "151940"
+    },
+    "userMessage": "Empty value found (column Scaling_factor, property scalingFactor, entity E:UNDataEnergy->E0)",
+    "counterKey": "StrSplit_EmptyToken"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "undata-energy-output.csv",
+      "lineNumber": "151941"
+    },
+    "userMessage": "Empty value found (column Scaling_factor, property scalingFactor, entity E:UNDataEnergy->E0)",
+    "counterKey": "StrSplit_EmptyToken"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "undata-energy-output.csv",
+      "lineNumber": "151942"
+    },
+    "userMessage": "Empty value found (column Scaling_factor, property scalingFactor, entity E:UNDataEnergy->E0)",
+    "counterKey": "StrSplit_EmptyToken"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "undata-energy-output.csv",
+      "lineNumber": "151943"
+    },
+    "userMessage": "Empty value found (column Scaling_factor, property scalingFactor, entity E:UNDataEnergy->E0)",
+    "counterKey": "StrSplit_EmptyToken"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "undata-energy-output.csv",
+      "lineNumber": "151944"
+    },
+    "userMessage": "Empty value found (column Scaling_factor, property scalingFactor, entity E:UNDataEnergy->E0)",
+    "counterKey": "StrSplit_EmptyToken"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "undata-energy-output.csv",
+      "lineNumber": "151945"
+    },
+    "userMessage": "Empty value found (column Scaling_factor, property scalingFactor, entity E:UNDataEnergy->E0)",
+    "counterKey": "StrSplit_EmptyToken"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "undata-energy-output.csv",
+      "lineNumber": "151946"
+    },
+    "userMessage": "Empty value found (column Scaling_factor, property scalingFactor, entity E:UNDataEnergy->E0)",
+    "counterKey": "StrSplit_EmptyToken"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "undata-energy-output.csv",
+      "lineNumber": "151947"
+    },
+    "userMessage": "Empty value found (column Scaling_factor, property scalingFactor, entity E:UNDataEnergy->E0)",
+    "counterKey": "StrSplit_EmptyToken"
+  }, {
+    "level": "LEVEL_WARNING",
+    "location": {
+      "file": "undata-energy-output.csv",
+      "lineNumber": "151948"
+    },
+    "userMessage": "Empty value found (column Scaling_factor, property scalingFactor, entity E:UNDataEnergy->E0)",
+    "counterKey": "StrSplit_EmptyToken"
+  }]
+}
